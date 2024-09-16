@@ -12,10 +12,10 @@ I know a ton of languages:
 - Rust
 - Python
 - Lua (norm. & some roblox)
+- HTML
+- CSS
 
 ## Favorite Program
 My favorite program I have ever made:
 pyTGM
 
-### Sexuality
-fluxseual inconsistent (for real life) & fictosexual

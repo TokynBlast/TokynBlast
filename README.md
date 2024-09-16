@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on pyTGM
 - 📫 How to reach me:
        tokynblast@gmail.com
-       ‪(775) 453-0384‬
+      ‪(775) 453-0384‬
 - 😄 Pronouns: he/him
 
 ## Languages

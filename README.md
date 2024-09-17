@@ -9,11 +9,13 @@
 
 ## Languages
 I know a ton of languages:
-- Rust
+
 - Python
-- Lua (norm. & some roblox)
 - HTML
 - CSS
+- Lua (norm. & some roblox, learning, almost mastered)
+- Rust (learning)
+- C (learning for pyTGM)
 
 ## Favorite Program
 My favorite program I have ever made:

@@ -1,14 +1,11 @@
 - 👋 Hi, I’m @TokynBlast
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning rust
-- 💞️ I’m looking to collaborate on pyTGM
-- 📫 How to reach me:
-       tokynblast@gmail.com
-      (775) 453-0384
+- 📫 How to reach me:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tokynblast@gmail.com<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(775) 453-0384
 - 😄 Pronouns: he/him
 
 ## Languages
-I know a ton of languages:
+Here are the languages I know
 
 - Python
 - HTML
@@ -21,3 +18,8 @@ I know a ton of languages:
 My favorite program I have ever made:
 pyTGM
 
+## Social Media
+<span style="color:blue;">[Discord](https://discord.gg/DBWHDpb5u2)</span>
+<span style="color:red;">[YouTube](https://youtube.com/@Tokyn-Blast)</span>
+<span style="color:pink;">[Instagram]()</span>
+<span style="color:purple;">[Twitch](http://twitch.com/tokyn_blast)</span>

@@ -10,7 +10,9 @@ Here are the languages I know
 - Python
 - HTML
 - CSS
-- Lua (norm. & some roblox, learning, almost mastered)
+- Lua<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Roblox<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Normal<br>
 - Rust (learning)
 - C (learning for pyTGM)
 
@@ -19,7 +21,7 @@ My favorite program I have ever made:
 pyTGM
 
 ## Social Media
-<span style="color:blue;">[Discord](https://discord.gg/DBWHDpb5u2)</span>
-<span style="color:red;">[YouTube](https://youtube.com/@Tokyn-Blast)</span>
-<span style="color:pink;">[Instagram]()</span>
-<span style="color:purple;">[Twitch](http://twitch.com/tokyn_blast)</span>
+[Discord](https://discord.gg/DBWHDpb5u2)
+[YouTube](https://youtube.com/@Tokyn-Blast)
+[Instagram]()
+[Twitch](http://twitch.com/tokyn_blast)

@@ -11,8 +11,8 @@ Here are the languages I know
 - HTML
 - CSS
 - Lua<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Roblox<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Normal<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Roblox<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Normal<br>
 
 ## Learning
 - Rust (learning)

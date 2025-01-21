@@ -29,4 +29,8 @@ My favorite program is pyTGM
 [Twitch](http://twitch.com/tokyn_blast)
 
 ## About Me
-I am all for open-source programs.
+I am all for open-source programs.<br>
+I have plans for college set out:<br>
+1. Get a scholarship to get classes at a community college free.<br>
+2. Go to community college for two years to complete basic classes<br>
+3. Transfer too NDSU and get a PhD in Software engineering and Cyber Security.

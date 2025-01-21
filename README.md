@@ -19,6 +19,7 @@ Here are the languages I know
 ## Learning
 - Rust
 - C++
+- C#
 
 ## Favorite Program
 My favorite program is pyTGM

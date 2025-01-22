@@ -16,13 +16,16 @@ const dateRanges = [
   { start: '10-10', end: '10-10', image: 'images/ten.jpg' }, // Tenth day of the tenth month
   { start: '05-11', end: '05-11', image: 'images/momtocat.png' }, // Mothers day (2025) :D /// THIS WILL ONLY BE HERE ONE TIME, UNLESS DAY CHANGING HOLIDAYS ARE DYNAMICALLY UPDATED!
   { start: '10-11', end: '10-11', image: 'images/steve.jpg' }, // Steve Jobs dies :(
+  { start: '08-15', end: '08-15', image: 'images/birthday.png' }, // My BDAY!! :D
   { start: '01-23', end: '01-24', image: 'images/ten.jpg' } // To test if it works!
 ];
 
 // Determine the correct image
 let newImage = defaultImage;
 dateRanges.forEach(({ start, end, image }) => {
-  if (start === end && today === start) {
+ if (today === '08-15') {
+    newImage = 'images/birthday.png'
+ } else if (start === end && today === start) {
     // Single-day range, check exact match
     newImage = image;
   } else if (today >= start && today <= end) {
@@ -38,7 +41,12 @@ const updatedContent = readmeContent.replace(
   `<img align='right' src='${newImage}' width='25%'>`
 );
 
+const updatedAgeContent = updatedImageContent.replace(
+  /\* ⚡ `I'm`: \*\*(\d+?) years old\*\*,/,
+  (_, currentAge) => `* ⚡ \`I'm\`: **${parseInt(currentAge, 10) + 1} years old**,`
+);
+
 // Only write if there are changes
-if (readmeContent !== updatedContent) {
-  fs.writeFileSync(readmePath, updatedContent);
+if (readmeContent !== updatedAgeContent) {
+  fs.writeFileSync(readmePath, updatedAgeContent);
 }

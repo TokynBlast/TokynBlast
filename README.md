@@ -50,6 +50,12 @@
 <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
 </p>
 
+<h2 align="center">⚙ Other Supported Software</h2>
+
+<p align="center">
+
+</p>
+
 <pre><code>{
 let public string email = "<a href='mailto:tokynblast@gmail.com'>tokynblast@gmail.com</a>"  
 let public string YouTube = "<a href='https://youtube.com/@Tokyn-Blast'>@TokynBlast</a>"  

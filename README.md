@@ -29,7 +29,7 @@
 
 </p>
 
-<h4 align="center">Plan To Learn</h4>
+<h4 align="center">🧑‍🏫 Plan To Learn</h4>
 <p align="center">
 <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 <a href="https://github.com/search?q=user%3ATokynBlast+language%3Acpp&type=code"><img alt="JavaScript" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus"></a>
@@ -49,8 +49,8 @@
 <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&logoColor=white"></a>
 <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
 </p>
-
-<h2 align="center">⚙ Software/Code I Enjoy</h2>
+<br><br><br>
+<h2 align="center">🖥️ Software/Code I Enjoy</h2>
 
 <p align="center">
 <a href="https://github.com/torvalds/linux"><img alt="torvalds/linux repo" src="https://img.shields.io/badge/torvalds-linux-blue"></a>

@@ -65,4 +65,4 @@ let public string YouTube = "<a href='https://youtube.com/@Tokyn-Blast'>@TokynBl
 let public string Twitch = "<a href='http://twitch.com/tokyn_blast'>tokyn_blast</a>"
 }</code></pre>
 
-<sub>Most of MD is based on (Or just straight up from) [samwwyy/sammwyy](https://github.com/sammwyy/sammwyy).</sub>
+<sub>[samwwyy/sammwyy](https://github.com/sammwyy/sammwyy) was used as a base for the MD.</sub>

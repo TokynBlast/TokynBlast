@@ -14,10 +14,9 @@ const dateRanges = [
   { start: '05-05', end: '05-05', image: 'images/adventure-cat.png' }, // Adventure time airs
   { start: '06-01', end: '06-30', image: 'images/Octoqueer.png' }, // LGBTQ+ month :)
   { start: '10-10', end: '10-10', image: 'images/ten.jpg' }, // Tenth day of the tenth month
-  { start: '05-11', end: '05-11', image: 'images/momtocat.png' }, // Mothers day (2025) :D
-  { start: '05-11', end: '05-11', image: 'images/seteve.jpg' }, // Steve Jobs dies :(
-  { start: '05-11', end: '05-11', image: 'images/day-of-dead.jpg' }, // Day of the dead
-  { start: '01-23', end: '01-24', image: 'images/ten.jpg' }, // To test if it works!
+  { start: '05-11', end: '05-11', image: 'images/momtocat.png' }, // Mothers day (2025) :D /// THIS WILL ONLY BE HERE ONE TIME, UNLESS DAY CHANGING HOLIDAYS ARE DYNAMICALLY UPDATED!
+  { start: '10-11', end: '10-11', image: 'images/steve.jpg' }, // Steve Jobs dies :(
+  { start: '01-23', end: '01-24', image: 'images/ten.jpg' } // To test if it works!
 ];
 
 // Determine the correct image

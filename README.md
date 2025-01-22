@@ -11,7 +11,7 @@
 * ⚡ `I'm`: **16 years old**,
 * 🌱 `I’m currently learning`: **C#**,
 * ❤️ `I love`: **Rodents**  ,
-* 💻 `Favorite lang`: **Python & C#**  
+* 💻 `Favorite lang`: **Python & C#**,
 
 }
 
@@ -48,16 +48,9 @@
 <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
 </p>
 
-## About Me
-I am all for open-source programs.<br>
-I have plans for college set out:<br>
-1. Get a scholarship to get classes at a community college free.<br>
-2. Go to community college for two years to complete basic classes<br>
-3. Transfer too NDSU and get a PhD in Software engineering and Cyber Security.
-
 <pre><code>let email = "<a href='mailto:tokynblast@gmail.com'>tokynblast@gmail.com</a>"  
 let YouTube = "<a href='https://youtube.com/@Tokyn-Blast'>@TokynBlast</a>"  
 let Twitch = "<a href='http://twitch.com/tokyn_blast'>tokyn_blast</a>"
 </code></pre>
 
-Some of the MD is from sammwy/sammwy
+Most of the insporation for the MD is from sammwy/sammwy.

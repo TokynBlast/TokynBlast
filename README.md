@@ -2,9 +2,18 @@
 
 <hr/>
 
-<img align='right' src='' width='25%'>  
+<img align='right' src='NUXtocat.gif' width='25%'>  
 
+{  
 
+* 👂 `My name is`: **Tokyn, Jelly, or Ronald**,
+* 👱‍♂️ `Pronouns`: **he/him**,
+* ⚡ `I'm`: **16 years old**,
+* 🌱 `I’m currently learning`: **C#**,
+* ❤️ `I love`: **Rodents**  ,
+* 💻 `Favorite lang`: **Python & C#**  
+
+}
 
 <h2 align="center">🌱 My Skills</h2>
 
@@ -39,14 +48,6 @@
 <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
 </p>
 
-## Favorite Program
-My favorite program is pyTGM
-
-## Social Media
-[Discord](https://discord.gg/DBWHDpb5u2)<br>
-[YouTube](https://youtube.com/@Tokyn-Blast)<br>
-[Twitch](http://twitch.com/tokyn_blast)
-
 ## About Me
 I am all for open-source programs.<br>
 I have plans for college set out:<br>
@@ -54,7 +55,9 @@ I have plans for college set out:<br>
 2. Go to community college for two years to complete basic classes<br>
 3. Transfer too NDSU and get a PhD in Software engineering and Cyber Security.
 
-```
-let email = "tokynblast@gmail.com"
-```
+<pre><code>let email = "<a href='mailto:tokynblast@gmail.com'>tokynblast@gmail.com</a>"  
+let YouTube = "<a href='https://youtube.com/@Tokyn-Blast'>@TokynBlast</a>"  
+let Twitch = "<a href='http://twitch.com/tokyn_blast'>tokyn_blast</a>"
+</code></pre>
+
 Some of the MD is from sammwy/sammwy

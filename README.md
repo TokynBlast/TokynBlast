@@ -1,6 +1,5 @@
 <h2 align="center">👋 Hi there</h2>
 
-<hr/>
 
 <img align='right' src='images/NUXtocat.gif' width='25%'>  
 
@@ -25,18 +24,21 @@
 <a href="https://github.com/TokynBlast?tab=repositories&q=&language=html"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="https://github.com/TokynBlast?tab=repositories&q=&language=markdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
 <a href="https://github.com/TokynBlast?tab=repositories&q=&language=python"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-</p>
-
-<h4 align="center">Learning</h4>
-
-<p align="center">
+<a href="https://github.com/TokynBlast?tab=repositories&q=&language=lua"><img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white"></a>
 <a href="https://github.com/TokynBlast?tab=repositories&q=&language=csharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-<a href="https://github.com/TokynBlast?tab=repositories&q=&language=java"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+
 </p>
 
 <h4 align="center">Plan To Learn</h4>
 <p align="center">
-<a href="https://github.com/search?q=user%3ASammwyy1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+<a href="https://github.com/TokynBlast?tab=repositories&q=&language=C%2B%2B"><img alt="JavaScript" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus"></a>
+<a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+<a href="#"><img alt="Rust" src="https://shields.io/badge/-Rust-3776AB?style=flat&logo=rust"></a>
+<a href="#"><img alt="C" src="https://shields.io/badge/-C-3776AB?style=flat&logo=C"></a>
+<a href="#"><img alt="R" src="https://shields.io/badge/-R-3776AB?style=flat&logo=R"></a>
+<a href="#"><img alt="Assembly" src="https://img.shields.io/badge/-Assembly-000?&logo=assemblyscript"></a>
+<a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-grey?logo=tailwind-css&logoColor=38B2AC"></a>
 </p>
 
 <h4 align="center">⚙ Software and Frameworks</h4>

@@ -48,9 +48,10 @@
 <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
 </p>
 
-<pre><code>let email = "<a href='mailto:tokynblast@gmail.com'>tokynblast@gmail.com</a>"  
-let YouTube = "<a href='https://youtube.com/@Tokyn-Blast'>@TokynBlast</a>"  
-let Twitch = "<a href='http://twitch.com/tokyn_blast'>tokyn_blast</a>"
-</code></pre>
+<pre><code>{
+let public string email = "<a href='mailto:tokynblast@gmail.com'>tokynblast@gmail.com</a>"  
+let public string YouTube = "<a href='https://youtube.com/@Tokyn-Blast'>@TokynBlast</a>"  
+let public string Twitch = "<a href='http://twitch.com/tokyn_blast'>tokyn_blast</a>"
+}</code></pre>
 
-Most of the insporation for the MD is from sammwy/sammwy.
+<sub>Most of the insporation for the MD is from [samwwyy](https://github.com/sammwyy/sammwyy).</sub>

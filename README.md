@@ -2,7 +2,7 @@
 
 <hr/>
 
-<img align='right' src='NUXtocat.gif' width='25%'>  
+<img align='right' src='images/NUXtocat.gif' width='25%'>  
 
 {  
 

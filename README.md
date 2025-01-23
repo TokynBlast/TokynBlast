@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi there</h2>
+<h1 align="center">👋 Hi there</h1>
 
 
 <img align='right' src='images/NUXtocat.gif' width='25%'>  

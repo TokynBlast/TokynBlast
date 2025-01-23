@@ -7,7 +7,7 @@
 
 * 👂 `My name is`: **Tokyn, Jelly, or Ronald**,
 * 👱‍♂️ `Pronouns`: **he/him**,
-* ⚡ `I'm`: **17 years old**,
+* ⚡ `I'm`: **16 years old**,
 * 🌱 `I’m currently learning`: **C#**,
 * ❤️ `I love`: **Rodents**  ,
 * 💻 `Favorite lang`: **Python & C#**,

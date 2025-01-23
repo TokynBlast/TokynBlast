@@ -57,9 +57,9 @@
 <h2 align="center">🖥️ Software/Code I Enjoy</h2>
 
 <p align="center">
-<a href="https://github.com/torvalds/linux"><img alt="torvalds/linux repo" src="https://img.shields.io/badge/torvalds-linux-black"></a>
-<a href="https://github.com/TokynBlast/pyTGM"><img alt="TokynBlast/pyTGM repo" src="https://img.shields.io/badge/TokynBlast-pyTGM-blue"></a>
-<a href="https://github.com/sammwyy/mikimikubeam"><img alt="sammwyy/mikumikubeam repo" src="https://img.shields.io/badge/sammwyy-MikuMikuBeam-00BFFF"></a>
+<a href="https://github.com/torvalds/linux"><img alt="torvalds/linux repo" src="https://img.shields.io/badge/torvalds-linux-000000"></a>
+<a href="https://github.com/TokynBlast/pyTGM"><img alt="TokynBlast/pyTGM repo" src="https://img.shields.io/badge/TokynBlast-pyTGM-3776AB"></a>
+<a href="https://github.com/sammwyy/mikumikubeam"><img alt="sammwyy/mikumikubeam repo" src="https://img.shields.io/badge/sammwyy-MikuMikuBeam-00BFFF"></a>
 </p>
 
 <br><br><br>

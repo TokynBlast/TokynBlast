@@ -1,6 +1,8 @@
+<!--HOW IS THIS ONE EMOJI?! 🧑‍🏫-->
+
 <h1 align="center">👋 Hi there</h1>
 
-
+<br>
 <img align='right' src='images/NUXtocat.gif' width='25%'>  
 
 {  
@@ -30,7 +32,7 @@
 </p>
 <br>
 
-<h4 align="center">🧑‍🏫 Plan To Learn</h4>
+<h4 align="center">🏫 Plan To Learn</h4>
 <p align="center">
 <a href="https://github.com/search?q=user%3ATokynBlast+language%3AJavaScript+&type=repositories"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 <a href="#"><img alt="Rust" src="https://img.shields.io/badge/-Rust-D65A41?style=flat&logo=rust"></a>

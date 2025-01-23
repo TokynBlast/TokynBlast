@@ -68,6 +68,7 @@
    let public string email = "<a href='mailto:tokynblast@gmail.com'>tokynblast@gmail.com</a>"  
    let public string YouTube = "<a href='https://youtube.com/@Tokyn-Blast'>@Tokyn-Blast</a>"  
    let public string Twitch = "<a href='http://twitch.com/tokyn_blast'>tokyn_blast</a>"
+   let public string x = "<a href='http://x.com/user/TokynBlastOfficial'>tokyn_blast</a>"
 }</code></pre>
 
 <sub>[samwwyy/sammwyy](https://github.com/sammwyy/sammwyy) was used as a base for the MD.</sub>

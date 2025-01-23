@@ -11,7 +11,7 @@
 * 👂 `My name is`: **Tokyn, Jelly, or Ronald**,
 * 👱‍♂️ `Pronouns`: **he/him**,
 * ⚡ `I'm`: **16 years old**,
-* 🌱 `I’m currently learning`: **Nothing**,
+* 🌱 `I’m currently learning`: <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>,
 * ❤️ `I love`: **Rodents**  ,
 * 💻 `Favorite lang`: **Python & C#**,
 
@@ -36,7 +36,6 @@
 <p align="center">
 <a href="https://github.com/search?q=user%3ATokynBlast+language%3AJavaScript+&type=repositories"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 <a href="#"><img alt="Rust" src="https://img.shields.io/badge/-Rust-D65A41?style=flat&logo=rust"></a>
-<a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
 <a href="#"><img alt="C" src="https://shields.io/badge/-C-00599C?style=flat&logo=C"></a>
 <a href="#"><img alt="C++" src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white"></a>
 <a href="#"><img alt="R" src="https://shields.io/badge/-R-276DC3?style=flat&logo=R"></a>

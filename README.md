@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi there</h1>
 
 <br>
-<img align='right' src='images/NUXtocaet.gif' width='25%'>
+<img align='right' src='images/NUXtocat.gif' width='25%'>
 
 {  
 

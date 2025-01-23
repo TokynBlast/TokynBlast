@@ -38,11 +38,14 @@ let updatedContent = readmeContent.replace(
   `<img align='right' src='${newImage}' width='25%'>`
 );
 
-// Increment the age
-updatedContent = updatedContent.replace(
-  /\* ⚡ `I'm`: \*\*(\d+?) years old\*\*,/,
-  (_, currentAge) => `* ⚡ \`I'm\`: **${parseInt(currentAge, 10) + 1} years old**,`
-);
+
+if (today === '08-15') {
+  // Increment the age
+  updatedContent = updatedContent.replace(
+    /\* ⚡ `I'm`: \*\*(\d+?) years old\*\*,/,
+    (_, currentAge) => `* ⚡ \`I'm\`: **${parseInt(currentAge, 10) + 1} years old**,`
+  );
+}
 
 // Only write if there are changes
 if (readmeContent !== updatedContent) {

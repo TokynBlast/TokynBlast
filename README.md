@@ -3,7 +3,9 @@
 <h1 align="center">👋 Hi there</h1>
 
 <br>
-<img align='right' src='images/NUXtocat.gif' width='25%'>  
+<img align='right' src='images/NUXtocat.gif' width='25%'>
+
+
 
 {  
 
@@ -14,7 +16,8 @@
 * ❤️ `I love`: **Rodents**  ,
 * 💻 `Favorite lang`: **Python & C#**,
 
-}
+}<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :octocat:THIS IS AN OCTOCAT:octocat:<br>
 
 <h2 align="center">🌱 My Skills</h2>
 
@@ -28,7 +31,6 @@
 <a href="#"><img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white"></a>
 <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ATokynBlast+language%3Amarkdown&type=code"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-
 </p>
 <br>
 
@@ -73,3 +75,10 @@
 }</code></pre>
 
 <sub>[samwwyy/sammwyy](https://github.com/sammwyy/sammwyy) was used as a base for the MD.</sub>
+
+<!--HEYYYY!!
+So glad you came to look at the source code!!
+This is slowly becoming my own :)
+Really, go check out the sammwyy/sammwyy README.md: https://github.com/sammwyy/sammwyy
+I put a LOT of time into this, and they know a LOT more languages and code than I do...
+This thing was TERRIBLE untill I discovered you could use HTML in MD.-->

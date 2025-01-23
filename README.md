@@ -1,6 +1,7 @@
-<!--HOW IS THIS ONE EMOJI?! 🧑‍🏫-->
-
-<h1 align="center">👋 Hi there</h1>
+<h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<p align='center'>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=300&color=00D13B&center=true&random=true&width=750&height=80&lines=I+love+C%23+%E2%99%A5%EF%B8%8F;Open+Source+Is+The+Best;Python+Is+Awesome;Professionalism+Can+Be+Fun!;Programming+Is+Super+Cool;Lua+Is+Interesting!;POTATOOOOOO+%F0%9F%A5%94;Unity+Is+EZZZZZZZZ;HTML+Should+Be+A+Language!;RUSTY+CRAB+PIZZA;Website+Go+brrrrrrrrrr;Programming+Is+Easy!;Markdown+Is+Incredible!;HTML+Is...+Interesting%3F" alt="Typing SVG" /></a>
+</p>
 
 <br>
 <img align='right' src='images/NUXtocat.gif' width='25%'>
@@ -79,3 +80,13 @@ This is slowly becoming my own :)
 Really, go check out the sammwyy/sammwyy README.md: https://github.com/sammwyy/sammwyy
 I put a LOT of time into this, and they know a LOT more languages and code than I do...
 This thing was TERRIBLE untill I discovered you could use HTML in MD.-->
+
+<!--This thing takes a LOT of insporation from other READMEs! I'm proud of it!
+Also, Programming can be made easy... IF TAUGHT RIGHT!!
+I beleive, HTML should be taught first, to get the future programmer used to how
+abstract code can be! Then, they learn something NOT objective, otherwise they
+will likely come to the same turn-off most people do when learning a non-objective language.
+Learning non-objective, then objective is usually easier!
+
+One problem with that... HTML is human-readable, so is an objective language...
+Non-objective languages aren't human readable...-->

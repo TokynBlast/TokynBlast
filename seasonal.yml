@@ -2,7 +2,10 @@ name: Change Image On Date
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight UTC
+    - cron: '0 0 * * *' # Runs daily at midnight UT
+  push:
+    branches:
+      - main
 
 jobs:
   update-image:

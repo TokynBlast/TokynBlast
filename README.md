@@ -1,13 +1,13 @@
 <h2 align="center">👋 Hi there</h2>
 
 
-<img align='right' src='images/ten.jpg' width='25%'>  
+<img align='right' src='images/NUXtocat.gif' width='25%'>  
 
 {  
 
 * 👂 `My name is`: **Tokyn, Jelly, or Ronald**,
 * 👱‍♂️ `Pronouns`: **he/him**,
-* ⚡ `I'm`: **17 years old**,
+* ⚡ `I'm`: **18 years old**,
 * 🌱 `I’m currently learning`: **C#**,
 * ❤️ `I love`: **Rodents**  ,
 * 💻 `Favorite lang`: **Python & C#**,

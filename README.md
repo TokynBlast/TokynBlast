@@ -55,6 +55,7 @@
 <p align="center">
 <a href="https://github.com/torvalds/linux"><img alt="torvalds/linux repo" src="https://img.shields.io/badge/torvalds-linux-blue"></a>
 <a href="https://github.com/TokynBlast/pyTGM"><img alt="TokynBlast/pyTGM repo" src="https://img.shields.io/badge/TokynBlast-pyTGM-blue"></a>
+<a href="https://github.com/sammwyy/mikimikubeam"><img alt="sammwyy/mikumikubeam repo" src="https://img.shields.io/badge/sammwyy-MikuMikuBeam-blue"></a>
 </p>
 
 <br><br><br>

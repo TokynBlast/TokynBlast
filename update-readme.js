@@ -19,12 +19,11 @@ const dateRanges = [
   { start: '01-23', end: '01-24', image: 'images/ten.jpg' } // To test if it works!
 ];
 
-// Determine the correct image
 let newImage = defaultImage;
 dateRanges.forEach(({ start, end, image }) => {
- if (today === '08-15') {
-    newImage = 'images/birthday.png'
- } else if (start === end && today === start) {
+  if (today === '08-15') {
+    newImage = 'images/birthday.png';
+  } else if (start === end && today === start) {
     // Single-day range, check exact match
     newImage = image;
   } else if (today >= start && today <= end) {
@@ -34,18 +33,19 @@ dateRanges.forEach(({ start, end, image }) => {
 });
 
 // Read and update the README
-const readmeContent = fs.readFileSync(readmePath, 'utf8');
-const updatedContent = readmeContent.replace(
+let readmeContent = fs.readFileSync(readmePath, 'utf8');
+let updatedContent = readmeContent.replace(
   /<img align='right' src='.*?' width='25%'>/,
   `<img align='right' src='${newImage}' width='25%'>`
 );
 
-const updatedAgeContent = updatedImageContent.replace(
+// Increment the age
+updatedContent = updatedContent.replace(
   /\* ⚡ `I'm`: \*\*(\d+?) years old\*\*,/,
   (_, currentAge) => `* ⚡ \`I'm\`: **${parseInt(currentAge, 10) + 1} years old**,`
 );
 
 // Only write if there are changes
-if (readmeContent !== updatedAgeContent) {
-  fs.writeFileSync(readmePath, updatedAgeContent);
+if (readmeContent !== updatedContent) {
+  fs.writeFileSync(readmePath, updatedContent);
 }

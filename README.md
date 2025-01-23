@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 <p align='center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=300&color=00D13B&center=true&random=true&width=750&height=80&lines=I+love+C%23+%E2%99%A5%EF%B8%8F;Open+Source+Is+The+Best;Python+Is+Awesome;Professionalism+Can+Be+Fun!;Programming+Is+Super+Cool;Lua+Is+Interesting!;POTATOOOOOO+%F0%9F%A5%94;Unity+Is+Easy;HTML+Should+Be+A+Language!;RUSTY+CRAB+PIZZA;Website+Go+brrrrrrrrrr;Programming+Is+Easy!;Markdown+Is+Incredible!;HTML+Is...+Interesting%3F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=300&color=00D13B&center=true&random=true&width=750&height=80&lines=I+love+C%23+%E2%99%A5%EF%B8%8F;Open+Source+Is+The+Best;Python+Is+Awesome;Professionalism+Can+Be+Fun!;Programming+Is+Super+Cool;Lua+Is+Interesting!;POTATOOOOOO+%F0%9F%A5%94;Unity+Is+Easy;HTML+Should+Be+A+Language!;RUSTY+CRAB+PIZZA;Markdown+Is+Awesome;Website+Go+brrrrrrrrrr;Programming+Is+Easy!;Markdown+Is+Incredible!;HTML+Is...+Interesting%3F" alt="Typing SVG" /></a>
 </p>
 
 <br>

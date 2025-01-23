@@ -26,8 +26,8 @@
 <a href="https://github.com/search?q=user%3ATokynBlast+language%3Apython&type=code"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 <a href="#"><img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ATokynBlast+language%3AC%23+&type=repositories"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-
 </p>
+<br>
 
 <h4 align="center">🧑‍🏫 Plan To Learn</h4>
 <p align="center">
@@ -40,6 +40,7 @@
 <a href="#"><img alt="Assembly" src="https://img.shields.io/badge/-Assembly-000?&logo=assemblyscript"></a>
 <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-grey?logo=tailwind-css&logoColor=38B2AC"></a>
 </p>
+<br>
 
 <h4 align="center">⚙ Software and Frameworks</h4>
 

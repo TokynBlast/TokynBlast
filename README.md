@@ -31,7 +31,7 @@
 
 <h4 align="center">🧑‍🏫 Plan To Learn</h4>
 <p align="center">
-<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+<a href="https://github.com/search?q=user%3ATokynBlast+language%3AJavaScript+&type=repositories"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 <a href="https://github.com/search?q=user%3ATokynBlast+language%3Acpp&type=code"><img alt="JavaScript" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus"></a>
 <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
 <a href="#"><img alt="Rust" src="https://shields.io/badge/-Rust-orange?style=flat&logo=rust"></a>

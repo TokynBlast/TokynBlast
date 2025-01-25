@@ -10,11 +10,11 @@
 {  
 
 * 👂 `My name is`: **Tokyn, Jelly, or Ronald**,
-* 👱‍♂️ `Pronouns`: **he/him**,
+* 🥔 `Potato`: **POTATO**,
 * ⚡ `I'm`: **16 years old**,
 * 🌱 `I’m currently learning`: <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>,
 * ❤️ `I love`: **Rodents**  ,
-* 💻 `Favorite lang`: **Python & C#**,
+* 💻 `Favorite lang`: **Java & C#**,
 
 }
 <br><br>

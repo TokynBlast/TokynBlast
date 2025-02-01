@@ -49,12 +49,11 @@
 
 <p align="center">
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+<a href="coolify.io"><img alt="Coolify" src="https://img.shields.io/badge/Coolify-%23129127.svg?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMCIgdmlld0JveD0iMCAwIDM3NSAzNzQuOTk5OTkiPgogIDxwYXRoIGZpbGw9IiM4YzUyZmYiIGZpbGwtb3BhY2l0eT0iLjMwMiIgZD0iTTE0Ny42NjM4IDE0Mi4wMTY0OGgtNDJ2MTI2aDQyWm0wIDE2OGgxNjh2LTQyaC0xNjhabTAtMTY4aDE2OHYtNDJoLTE2OFptMCAwIi8+CiAgPHBhdGggZmlsbD0iIzhjNTJmZiIgZmlsbC1vcGFjaXR5PSIuNTAyIiBkPSJNMTM0LjQwNTU0IDEyOC43NTgyM2gtNDJ2MTI2aDQyWm0wIDE2OGgxNjh2LTQyaC0xNjhabTAtMTY4aDE2OHYtNDJoLTE2OFptMCAwIi8+CiAgPHBhdGggZmlsbD0iIzhjNTJmZiIgZD0iTTEyMS4xNDcyOSAxMTUuNDk5OThoLTQydjEyNmg0MlptMCAxNjhoMTY4di00MmgtMTY4Wm0wLTE2OGgxNjh2LTQyaC0xNjhabTAgMCIvPgo8L3N2Zz4=" alt="Coolify Badge"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
 <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
 <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&logoColor=white"></a>
-<a href="#"><img alt="Unity" src="https://img.shields.io/badge/Coolify-Open%20Source%20PaaS-brightgreen.svg"</a>
-
 </p>
 <br><br><br>
 <h2 align="center">🖥️ Software/Code I Enjoy</h2>

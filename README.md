@@ -53,6 +53,8 @@
 <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
 <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
 <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&logoColor=white"></a>
+<a href="#"><img alt="Unity" src="https://img.shields.io/badge/Coolify-Open%20Source%20PaaS-brightgreen.svg"</a>
+
 </p>
 <br><br><br>
 <h2 align="center">🖥️ Software/Code I Enjoy</h2>

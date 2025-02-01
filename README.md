@@ -20,13 +20,13 @@
 <br><br>
 <h2 align="center">🌱 My Skills</h2>
 
-<h4 align="center">💻 Programming languages (and html)</h4>
+<h4 align="center">💻 Programming languages (and HTML)</h4>
 
 <p align="center">
 <a href="https://github.com/search?q=user%3ATokynBlast+language%3AHTML+&type=repositories"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="#"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ATokynBlast+language%3Acss&type=code"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ATokynBlast+language%3Apython&type=code"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ATokynBlast+language%3Apython&type=code"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCA0OCI+CiAgPHBhdGggZmlsbD0iIzAyNzdCRCIgZD0iTTI0LjA0NyA1Yy0xLjU1NS4wMDUtMi42MzMuMTQyLTMuOTM2LjM2Ny0zLjg0OC42Ny00LjU0OSAyLjA3Ny00LjU0OSA0LjY3VjE0aDl2MkgxMC44N2MtMi42MzYgMC00Ljk0MyAxLjI0Mi01LjY3NCA0LjIxOS0uODI2IDMuNDE3LS44NjMgNS41NTcgMCA5LjEyNUM1Ljg1MSAzMi4wMDUgNy4yOTQgMzQgOS45MzEgMzRoMy42MzJ2LTUuMTA0YzAtMi45NjYgMi42ODYtNS44OTYgNS43NjQtNS44OTZoNy4yMzZjMi41MjMgMCA1LTEuODYyIDUtNC4zNzd2LTguNTg2YzAtMi40MzktMS43NTktNC4yNjMtNC4yMTgtNC42NzIuMDYxLS4wMDYtMS43NTYtLjM3MS0zLjI5OC0uMzY1em0tNC45ODQgNGMuODIxIDAgMS41LjY3NyAxLjUgMS41MDJhMS41IDEuNSAwIDAgMS0xLjUgMS40OTggMS40OSAxLjQ5IDAgMCAxLTEuNS0xLjQ5OEExLjUgMS41IDAgMCAxIDE5LjA2MyA5eiIvPgogIDxwYXRoIGZpbGw9IiNGRkMxMDciIGQ9Ik0yMy4wNzggNDNjMS41NTUtLjAwNSAyLjYzMy0uMTQyIDMuOTM2LS4zNjcgMy44NDgtLjY3IDQuNTQ5LTIuMDc3IDQuNTQ5LTQuNjdWMzRoLTl2LTJoMTMuNjkzYzIuNjM2IDAgNC45NDMtMS4yNDIgNS42NzQtNC4yMTkuODI2LTMuNDE3Ljg2My01LjU1NyAwLTkuMTI1QzQxLjI3NCAxNS45OTUgMzkuODMxIDE0IDM3LjE5NCAxNGgtMy42MzJ2NS4xMDRjMCAyLjk2Ni0yLjY4NiA1Ljg5Ni01Ljc2NCA1Ljg5NmgtNy4yMzZjLTIuNTIzIDAtNSAxLjg2Mi01IDQuMzc3djguNTg2YzAgMi40MzkgMS43NTkgNC4yNjMgNC4yMTggNC42NzItLjA2MS4wMDYgMS43NTYuMzcxIDMuMjk4LjM2NXptNC45ODUtNGMtLjgyMSAwLTEuNS0uNjc3LTEuNS0xLjUwMmExLjUgMS41IDAgMCAxIDEuNS0xLjQ5OGMuODM3IDAgMS41LjY2NCAxLjUgMS40OTggMCAuODIyLS42NjQgMS41MDItMS41IDEuNTAyeiIvPgo8L3N2Zz4="></a>
 <a href="#"><img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white"></a>
 <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ATokynBlast+language%3Amarkdown&type=code"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>

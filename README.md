@@ -45,7 +45,7 @@
 </p>
 <br>
 
-<h4 align="center">⚙ Software and Frameworks</h4>
+<h4 align="center">⚙ Software, Frameworks and Apps</h4>
 
 <p align="center">
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
@@ -54,6 +54,7 @@
 <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
 <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
 <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&logoColor=white"></a>
+<a href="#"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-000000.svg?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+CiAgPGVsbGlwc2UgY3g9IjMyIiBjeT0iNjEiIG9wYWNpdHk9Ii4zIiByeD0iMjMiIHJ5PSIzIi8+CiAgPHBhdGggZmlsbD0iIzk4YzkwMCIgZD0ibTU4IDI0LTEyIDh2MTdjMCAxLjEwNS44OTUgMiAyIDJoNGMzLjMxNCAwIDYtMi42ODYgNi02VjI0eiIvPgogIDxwYXRoIGZpbGw9IiMzN2QwZWUiIGQ9Im03IDI0IDEyIDh2MTdjMCAxLjEwNS0uODk1IDItMiAyaC00Yy0zLjMxNCAwLTYtMi42ODYtNi02VjI0eiIvPgogIDxwYXRoIGZpbGw9IiNmZmNlMjkiIGQ9Ik01OCAxNi4zNjJjMC0zLjUxMy0zLjk2MS01LjU2Ni02LjgzMS0zLjU0TDQ2IDE2LjQ3MVYzMmwxMi03Ljk5OXYtNy42Mzl6Ii8+CiAgPHBhdGggZmlsbD0iI2NkMmU0MiIgZD0iTTcgMTYuMzYyYzAtMy41MTMgMy45NjEtNS41NjYgNi44MzEtMy41NEwxOSAxNi40NzFWMzJMNyAyNC4wMDF2LTcuNjM5eiIvPgogIDxwYXRoIGZpbGw9IiNmZDNjNGYiIGQ9Ik0zMi41IDI2IDE5IDE2LjQ3VjMybDEwLjc2MyA3LjE3NWMxLjY1OCAxLjEwNSAzLjgxOCAxLjEwNSA1LjQ3NiAwTDQ2IDMyVjE2LjQ3MUwzMi41IDI2eiIvPgogIDxwYXRoIGQ9Ik01OCAyNi4wMDF2LTEuOTY2Yy0yLjM0MyAxLjQ5Mi01IDIuNzE4LTUgNy44MDhWNDVjMCAyLjAxNyAxLjIwMSAzLjc0NSAyLjkyMSA0LjUzNUM1Ny4xOTIgNDguNDM1IDU4IDQ2LjgxMyA1OCA0NVYyNi4wMDF6IiBvcGFjaXR5PSIuMTUiLz4KICA8cGF0aCBmaWxsPSIjZmZmIiBkPSJNMjMuMDg1IDE5LjM1NCAxOSAxNi40N2wtNS4xNjktMy42NDlDMTAuOTYxIDEwLjc5NSA3IDEyLjg0OCA3IDE2LjM2MVYzNWMyLjc2MiAwIDUtMi4yMzkgNS01VjE5LjU4YzAtLjgxMS45MTQtMS4yODUgMS41NzctLjgxN2wyLjU0MSAxLjc5M2MyLjI1NCAxLjU5MSA1LjM3NSAxLjA1MyA2Ljk2Ny0xLjIwMnoiIG9wYWNpdHk9Ii4zIi8+CiAgPHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgc3Ryb2tlLXdpZHRoPSIzIiBkPSJNMTAuNSAxOS41djMiLz4KPC9zdmc+"></a>
 </p>
 <br><br><br>
 <h2 align="center">🖥️ Software/Code I Enjoy</h2>

@@ -76,7 +76,7 @@
    let public bool ?SiteUp = FALSE
 }</code></pre>
 
-<sub>[samwwyy/sammwyy](https://github.com/sammwyy/sammwyy) was used as a base for the MD.</sub>
+<sub>[samwwyy/sammwyy](https://github.com/sammwyy/sammwyy) was used as insporation.</sub>
 
 <!--HEYYYY!!
 So glad you came to look at the source code!!

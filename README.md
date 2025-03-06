@@ -12,7 +12,7 @@
 * 👂 `My name is`: **Tokyn or Ronald**,
 * 🥔 `Potato`: **POTATO**,
 * ⚡ `I'm`: **16 years old**,
-* 🌱 `I’m currently learning`: ITS ALL OVER!! EVERYDAY ITS A NEW LANGUAGE!!,
+* 🌱 `I’m currently learning`: A lot,
 * ❤️ `I love`: **Rodents**  ,
 * 💻 `Favorite lang`: **Java & C#**,
 

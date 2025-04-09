@@ -12,7 +12,7 @@
 * 👂 `My name is`: **Tokyn or Toki**,
 * 🥔 `Potato`: **POTATO**,
 * ⚡ `I'm`: **PROGRAMMING**,
-* 🌱 `I’m currently learning`: 日本語 (Japanese),
+* 🌱 `I’m currently learning`: **日本語 (Japanese)**,
 * ❤️ `I love`: **Rodents**  ,
 * 💻 `Favorite lang`: **Python & C++**,
 

@@ -10,7 +10,7 @@
 
 {  
 
-* 👂 `My name is`: **Tokyn or Toki**,
+* 👂 `My name is`: **Tokyn, Toki or Tokiyu**,
 * 🥔 `Potato`: **POTATO**,
 * ⚡ `I'm`: **PROGRAMMING**,
 * 🌱 `I’m currently learning`: **日本語 (Japanese)**,
@@ -100,3 +100,12 @@ Learning non-object-oriented, then object-oriented is usually easier!
 
 One problem with that... HTML is human-readable, so is an objective language...
 Non-objective languages aren't very human readable...-->
+
+
+<!--:0 so long!!
+random little snippets?!
+i forgot about theseeeeee!!
+that is SO cool!! but 日本語はかっこいいです
+>:3
+MUHUHAHAHAHA
+Japanese is also object oriented... but less sounds and more inferred! :D-->

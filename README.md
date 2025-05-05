@@ -7,7 +7,7 @@
 </p>
 
 <br>
-<img align='right' src='images/momtocat.png' width='25%'>
+<img align='right' src='images/adventure-cat.png' width='25%'>
 
 {  
 

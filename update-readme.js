@@ -31,7 +31,7 @@ const dateRanges = [
   { start: '10-24', end: '11-03', image: 'images/grim-repo.jpg' },                        // Halloween            (Week before, three days after)
   { start: mothersDayFormatted, end: mothersDayFormatted, image: 'images/momtocat.png' }, // Mothers day :D       (Exact day)
   { start: thanksgivingStart, end: thanksgivingEnd, image: 'images/gobble-me.gif' },      // Day of thanks        (Three days before and after)
-  { start: '02-14', end: '02-14', image: 'images/love.png' },               // Valentines           (Four days before and after)
+  { start: '02-14', end: '02-14', image: 'images/love.png' },                             // Valentines           (Four days before and after)
   { start: '12-18', end: '12-28', image: 'images/saint-nicktocat.jpg' },                  // Christmas            (Week before, two days after)
   { start: '12-17', end: '12-17', image: 'images/homercat.png' },                         // Simpsons air
   { start: '05-05', end: '05-05', image: 'images/adventure-cat.png' },                    // Adventure time airs

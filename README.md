@@ -7,7 +7,7 @@
 </p>
 
 <br>
-<img align='right' src='images/NUXtocat.gif' width='25%'>
+<img align='right' src='images/Octoqueer.png' width='25%'>
 
 {  
 

@@ -37,7 +37,9 @@ const dateRanges = [
   { start: '05-05', end: '05-05', image: 'images/adventure-cat.png' },                    // Adventure time airs
   { start: '06-01', end: '06-30', image: 'images/Octoqueer.png' },                        // LGBTQ+ month :)
   { start: '10-10', end: '10-10', image: 'images/ten.jpg' },                              // Tenth day of the tenth month
-  { start: '10-11', end: '10-11', image: 'images/steve.jpg' }                             // Steve Jobs dies :(
+  { start: '10-11', end: '10-11', image: 'images/steve.jpg' },                            // Steve Jobs dies :(
+  { start: '8-25', end: '8-26', image: 'glue.png' }                                       // Funny Image :D
+  
 ];
 
 // Determine the correct image

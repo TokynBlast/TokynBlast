@@ -9,7 +9,7 @@
 <br>
 <img align='right' src='images/grim-repo.jpg' width='25%'>
 
-{  
+func void me() {  
 
 * 👂 `My name is`: **Tokyn, Toki, Ru, Ri, or Ruri**,
 * 🥔 `Potato`: **POTATO**,

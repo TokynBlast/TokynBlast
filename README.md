@@ -3,7 +3,7 @@
 <h1 align="center">✨ Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 <p align='center'>
    
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=2500&pause=300&color=279419&center=true&vCenter=true&random=true&width=750&height=80&weight=90&lines=I+love+C%23+%E2%99%A5%EF%B8%8F;Open+Source+Is+The+Best;Python+Is+Awesome;Professionalism+Can+Be+Fun!;Programming+Is+Super+Cool;Lua+Is+Interesting!;POTATOOOOOO+%F0%9F%A5%94;Unity+Is+Easy;HTML+Should+Be+A+Language!;RUSTY+CRAB+PIZZA;Markdown+Is+Awesome;Website+Go+brrrrrrrrrr;Programming+Is+Easy!;Markdown+Is+Incredible!;JOIN+THE+POTATO+NET+%F0%9F%A5%94;HTML+Is...+Interesting%3F;SVG+is+superior;Code+Is+My+Native+Language;%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AF%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%84%E3%82%92%E3%81%A7%E3%81%99" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=2500&pause=300&color=279419&center=true&vCenter=true&random=true&width=750&height=80&weight=90&lines=I+love+C%23+%E2%99%A5%EF%B8%8F;Open+Source+Is+The+Best;Python+Is+Awesome;Professionalism+Can+Be+Fun!;Programming+Is+Super+Cool;HALLO;HELLO;HOLA;KONNICHIWA;BONJOUR;NI+HAO;Lua+Is+Interesting!;POTATOOOOOO+%F0%9F%A5%94;Unity+Is+Easy;HTML+Should+Be+A+Language!;RUSTY+CRAB+PIZZA;Markdown+Is+Awesome;Website+Go+brrrrrrrrrr;Programming+Is+Easy!;Markdown+Is+Incredible!;JOIN+THE+POTATO+NET+%F0%9F%A5%94;HTML+Is...+Interesting%3F;SVG+is+superior;Code+Is+My+Native+Language;%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AF%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%84%E3%82%92%E3%81%A7%E3%81%99" alt="Typing SVG" /></a>
 </p>
 
 <br>

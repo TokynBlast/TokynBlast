@@ -7,7 +7,7 @@
 </p>
 
 <br>
-<img align='right' src='images/NUXtocat.gif' width='25%'>
+<img align='right' src='images/grim-repo.jpg' width='25%'>
 
 {  
 

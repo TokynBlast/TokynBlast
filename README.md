@@ -74,10 +74,10 @@ func void me() {
 <br><br><br>
 
 <pre><code>{
-   let public string ?email = "<a href='mailto:tokynblast@gmail.com'>tokynblast@gmail.com</a>"  
-   let public string ?YouTube = "<a href='https://youtube.com/@Tokyn-Blast'>@Tokyn-Blast</a>"  
-   let public string ?Twitch = "<a href='http://twitch.com/tokyn_blast'>tokyn_blast</a>"
-   let public string ?x = "<a href='http://x.com/user/TokynBlastOfficial'>TokynBlastOfficial</a>"
+   let const owned str email = "<a href='mailto:tokynblast@gmail.com'>tokynblast@gmail.com</a>"  
+   let const owned str YouTube = "<a href='https://youtube.com/@Tokyn-Blast'>@Tokyn-Blast</a>"  
+   let const owned str Twitch = "<a href='http://twitch.com/tokyn_blast'>tokyn_blast</a>"
+   let const owned str X = "<a href='http://x.com/user/TokynBlastOfficial'>TokynBlastOfficial</a>"
    let public bool ?SiteUp = FALSE
 }</code></pre>
 
@@ -88,7 +88,7 @@ So glad you came to look at the source code!!
 This is slowly becoming my own :)
 Really though! go check out the sammwyy/sammwyy README.md: https://github.com/sammwyy/sammwyy
 I put a LOT of time into this, and they know a LOT more languages and code than I do...
-This thing was TERRIBLE until I discovered you could use HTML in MD.-->
+This thing was TERRIBLE until I discovered you could use HTML in MD!-->
 
 
 

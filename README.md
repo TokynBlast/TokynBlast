@@ -74,11 +74,11 @@ func void me() {
 <br><br><br>
 
 <pre><code>{
-   let const owned str email = "<a href='mailto:tokynblast@gmail.com'>tokynblast@gmail.com</a>";
-   let const owned str YouTube = "<a href='https://youtube.com/@Tokyn-Blast'>@Tokyn-Blast</a>";
-   let const owned str Twitch = "<a href='http://twitch.com/tokyn_blast'>tokyn_blast</a>";
-   let const owned str X = "<a href='http://x.com/user/TokynBlastOfficial'>TokynBlastOfficial</a>";
-   let public bool ?SiteUp = FALSE
+   let const static owned str email = "<a href='mailto:tokynblast@gmail.com'>tokynblast@gmail.com</a>";
+   let const static owned str YouTube = "<a href='https://youtube.com/@Tokyn-Blast'>@Tokyn-Blast</a>";
+   let const static owned str Twitch = "<a href='http://twitch.com/tanomaa'>tokyn_blast</a>";
+   let const static owned str X = "<a href='http://x.com/user/TokynBlastOfficial'>TokynBlastOfficial</a>";
+   let bool owned SiteUp = false;
 }</code></pre>
 
 <sub>[samwwyy/sammwyy](https://github.com/sammwyy/sammwyy) was used as insporation.</sub>

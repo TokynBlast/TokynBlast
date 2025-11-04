@@ -38,8 +38,10 @@ const dateRanges = [
   { start: '06-01', end: '06-30', image: 'images/Octoqueer.png' },                        // LGBTQ+ month :)
   { start: '10-10', end: '10-10', image: 'images/ten.jpg' },                              // Tenth day of the tenth month
   { start: '10-11', end: '10-11', image: 'images/steve.jpg' },                            // Steve Jobs dies :(
-  { start: '8-25', end: '8-26', image: 'glue.png' }                                       // Funny Image :D
-  
+  { start: '08-25', end: '08-26', image: 'glue.png' },                                    // Funny Image :D
+  { start: '08-01', end: '08-16', image: 'images/sly-me.png' },                           // My Octocat :3
+  { start: '11-04', end: '11-06', image: 'images/sly-me.png' },                           // My Octocat (again) :3
+  { start: '12-01', end: '12-03', image: 'images/sly-me.png' },                           // My Octocat (again again) :3
 ];
 
 // Determine the correct image

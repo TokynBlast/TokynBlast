@@ -1,0 +1,24 @@
+I primarily use C++23.
+The langauges doesn't mean I can make anything using it from scratch.
+Some, I learned a bit for the sole purpose of making a single project,
+and just haven't used it since.
+One example of that, is Java.
+
+I mainly use Python for scripts.
+Specifically, a script for writing code that has a patrern.
+EX:
+push("hey", 1);
+This line, I need to do every possible combo of upper and lower, increasing the number by one as I go.
+
+'''
+possible = (2**3)-3 # 2^3 is the max number of combos possible, subtracting one to adjust for 0 being the start in memory and the two already in text
+text = "hey"
+out = ["hey", "HEY"]
+for i in range(possible):
+  out.append(text[i].upper())
+
+for i in range(out):
+  print("print(" + out[i] + ",", i+1 + ")"
+'''
+
+(I would use a function in the code to do this, instead of making a script to write every line)

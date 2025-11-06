@@ -45,10 +45,7 @@ func void me() {
 <br>
 
 > [!NOTE]
-> This may be innacurate; I primarily use C++23.
-> As a result, some languages I know may be limited in actual knowledge.
-> I also use Python for simple scripts, such as auto-generating code with a pattern.
-> This is acts more like a list of languages I've used, or learned at some point.
+> This may be innacurate; for details read [this](tokynblast.github.com/tokynblast/lang)
 
 <h4 align="center">⚙ Software, Frameworks and Apps</h4>
 

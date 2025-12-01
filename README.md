@@ -11,7 +11,7 @@
 
 func void me() {  
 
-* 👂 `My name is`: **Tokyn, Toki, Ru, Ri, or Ruri**,
+* 👂 `My name is`: **Tokyn, Toki, Ru, Ri, Ruri, or Etc,**,
 * 🥔 `Potato`: **POTATO**,
 * ⚡ `I'm`: **17 years old**,
 * 🌱 `I’m currently learning`: **C++/日本語 (Japanese)**,

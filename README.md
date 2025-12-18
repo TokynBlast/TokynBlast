@@ -7,7 +7,7 @@
 </p>
 
 <br>
-<img align='right' src='images/homercat.png' width='25%'>
+<img align='right' src='images/saint-nicktocat.jpg' width='25%'>
 
 func void me() {  
 

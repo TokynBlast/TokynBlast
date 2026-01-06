@@ -11,10 +11,10 @@
 
 func void me() {  
 
-* 👂 `My name is`: **Tokyn, Toki, Ru, Ri, Ruri, or Etc**,
+* 👂 `My name is`: **Tokyn, Toki, Ruri, Ru, Ri**,
 * 🥔 `Potato`: **POTATO**,
 * ⚡ `I'm`: **17 years old**,
-* 🌱 `I’m currently learning`: **C++/日本語 (Japanese)**,
+* 🌱 `I’m currently learning`: **C++ && 日本語 (Japanese)**, <!--Refrence to C++ :)-->
 * ❤️ `I love`: **Minis**  ,
 * 💻 `Favorite lang`: **Rust & C++**,
 

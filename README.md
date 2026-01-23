@@ -9,7 +9,7 @@
 <br>
 <img align='right' src='images/NUXtocat.gif' width='25%'>
 
-func void me() {  
+void me() {  
 
 * 👂 `My name is`: **Tokyn, Toki, Ruri, or Mei**,
 * 🥔 `Potato`: **POTATO**,

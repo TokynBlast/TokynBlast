@@ -14,9 +14,9 @@ void me() {
 * 👂 `My name is`: **Tokyn, Toki, Ruri, or Mei**,
 * 🥔 `Potato`: **POTATO**,
 * ⚡ `I'm`: **17 years old**,
-* 🌱 `I’m currently learning`: **C++ && 日本語 (Japanese)**, <!--Refrence to C++ :)-->
+* 🌱 `I’m currently learning`: **C++ && Lua**, <!--Refrence to C++ :)-->
 * ❤️ `I love`: **Minis**  ,
-* 💻 `Favorite lang`: **Rust & C++**,
+* 💻 `Favorite lang`: **Lua & C++**,
 
 }
 <br><br>

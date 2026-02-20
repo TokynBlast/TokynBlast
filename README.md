@@ -44,9 +44,6 @@ void me() {
 </p>
 <br>
 
-> [!NOTE]
-> This may be innacurate; for details read [this](https://github.com/TokynBlast/TokynBlast/blob/main/lang)
-
 <h4 align="center">⚙ Software, Frameworks and Apps</h4>
 
 <p align="center">

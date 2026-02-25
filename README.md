@@ -111,3 +111,8 @@ that is SO cool!! but 日本語はかっこいいです
 >:3
 MUHUHAHAHAHA
 Japanese is also object oriented... but less sounds and more inferred! :D-->
+
+<!--
+hopecore is actually so awesome :)
+I've been rendering emotionally captivating images :3
+-->

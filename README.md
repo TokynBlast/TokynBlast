@@ -4,7 +4,7 @@
 <h1 align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=2500&pause=300&color=279419&center=true&vCenter=true&random=true&width=750&height=80&weight=90&lines=I+love+C%23+%E2%99%A5%EF%B8%8F;Open+Source+Is+The+Best;Python+Is+Awesome;Professionalism+Can+Be+Fun!;Programming+Is+Super+Cool;HALLO;HELLO;HOLA;KONNICHIWA;BONJOUR;NI+HAO;Lua+Is+Interesting!;POTATOOOOOO+%F0%9F%A5%94;Unity+Is+Easy;HTML+Should+Be+A+Language!;RUSTY+CRAB+PIZZA;Markdown+Is+Awesome;Website+Go+brrrrrrrrrr;Programming+Is+Easy!;Markdown+Is+Incredible!;JOIN+THE+POTATO+NET+%F0%9F%A5%94;CODEEEE;CODE+CODE+CODE;HTML+Is...+Interesting%3F;SVG+is+superior;Code+Is+My+Native+Language;%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AF%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%84%E3%82%92%E3%81%A7%E3%81%99;HTML+CSS+JS;OCaml+-+I+Have+No+Clue;CamlCase+=+Best;I+love+C%2B%2B+%E2%99%A5%EF%B8%8F;I+love+Lua+%E2%99%A5%EF%B8%8F;I+Love+OCaml+%E2%99%A5%EF%B8%8F;I+Love+Minis+%E2%99%A5%EF%B8%8F;I+Love+Rust+%E2%99%A5%EF%B8%8F;I+Love+Rust+++%E2%99%A5%EF%B8%8F;I+Love+C+%E2%99%A5%EF%B8%8F;I+Love+Python+%E2%99%A5%EF%B8%8F;I+Love+Linux+%E2%99%A5%EF%B8%8F;I+Use+Arch+btw;i++;Trans+Lives+Matter" alt="Typing SVG" /></a></h1>
 
 <br>
-<img align='right' src='images/momtocat.png' width='25%'>
+<img align='right' src='images/NUXtocat.gif' width='25%'>
 
 void me() {  
 

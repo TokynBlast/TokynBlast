@@ -11,7 +11,7 @@ void me() {
 * 👂 `My name is`: **Ruri or Mei**,
 * 🥔 `Potato`: **POTATO**,
 * ⚡ `I'm`: **3892 years old**,
-* 🌱 `I’m currently learning`: **Rust & Lua**, <!--Refrence to C++ :)-->
+* 🌱 `I’m currently learning`: **Rust**, <!--Refrence to C++ :)-->
 * ❤️ `I love`: **Minis**  ,
 * 💻 `Favorite lang`: **Lua, C++, & Rust**,
 

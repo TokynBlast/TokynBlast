@@ -83,38 +83,3 @@ void me() {
    let X: String = "<a href='http://x.com/user/meimei_x86'>MeiMei_x86</a>";
    let WebSite: String = "Nil";
 }</code></pre>
-
-<sub>[samwwyy/sammwyy](https://github.com/sammwyy/sammwyy) was used as insporation.</sub>
-
-<!--HEYYYY!!
-So glad you came to look at the source code!!
-This is slowly becoming my own :)
-Really though! go check out the sammwyy/sammwyy README.md: https://github.com/sammwyy/sammwyy
-I put a LOT of time into this, and they know a LOT more languages and code than I do...
-This thing was TERRIBLE until I discovered you could use HTML in MD!-->
-
-
-
-<!--This thing takes a LOT of insporation from other README files! I'm proud of it!
-Also, Programming can be made easy... IF TAUGHT RIGHT!!
-I beleive, HTML should be taught first, to get the future programmer used to how
-abstract code can be! Then, they learn something NOT object-oriented, otherwise they
-will likely come to the same turn-off most people do when learning a non-object-oriented language.
-Learning non-object-oriented, then object-oriented is usually easier!
-
-One problem with that... HTML is human-readable, so is an objective language...
-Non-objective languages aren't very human readable...-->
-
-
-<!--:0 so long!!
-random little snippets?!
-i forgot about theseeeeee!!
-that is SO cool!! but 日本語はかっこいいです
->:3
-MUHUHAHAHAHA
-Japanese is also object oriented... but less sounds and more inferred! :D-->
-
-<!--
-hopecore is actually so awesome :)
-I've been rendering emotionally captivating images :3
--->

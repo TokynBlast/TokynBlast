@@ -67,8 +67,8 @@ void me() {
 </p>
 
 <br><br>
-<h2>GitHub Stats</h2>
-![Language statistics](stats/horizontal-bar_by_bytes.png)
+<h1>GitHub Stats</h1>
+<img src="stats/horizontal_bar_by_bytes.png">
 <br><br><br>
 
 <pre><code>{

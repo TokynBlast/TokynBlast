@@ -68,7 +68,7 @@ void me() {
 
 <br><br>
 <h2>GitHub Stats</h2>
-<img alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TokynBlast&bg_color=0d1117&title_color=a9dc76&text_color=fdfdfd&show_icons=true&hide_border=true&layout=compact&hide=shell"></img>
+![Language statistics](stats/horizontal-bar_by_bytes.png)
 <br><br><br>
 
 <pre><code>{

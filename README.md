@@ -8,7 +8,7 @@
 
 void me() {  
 
-* 👂 `My name is`: **Tokyn, Toki, Ruri, or Mei**,
+* 👂 `My name is`: **Ruri or Mei**,
 * 🥔 `Potato`: **POTATO**,
 * ⚡ `I'm`: **3892 years old**,
 * 🌱 `I’m currently learning`: **Rust & Lua**, <!--Refrence to C++ :)-->

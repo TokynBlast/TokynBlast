@@ -71,12 +71,12 @@ void me() {
 <img src="stats/horizontal_bar_by_bytes.png">
 <br><br><br>
 
-<pre><code>{
-   str Email = "<a href='mailto:tokynblast@gmail.com'>tokynblast@gmail.com</a>";
-   str YouTube = "<a href='https://youtube.com/@Tokyn-Blast'>@Tokyn-Blast</a>";
-   str Twitch = "<a href='http://twitch.com/tanomaa'>Tanomaa</a>";
-   str X = "<a href='http://x.com/user/meimei_x86'>MeiMei_x86</a>";
-   str WebSite = "Nil";
+<pre><code>main() {
+   let Email: String = "<a href='mailto:tokynblast@gmail.com'>tokynblast@gmail.com</a>";
+   let YouTube: String = "<a href='https://youtube.com/@Tokyn-Blast'>@Tokyn-Blast</a>";
+   let Twitch: String = "<a href='http://twitch.com/tanomaa'>Tanomaa</a>";
+   let X: String = "<a href='http://x.com/user/meimei_x86'>MeiMei_x86</a>";
+   let WebSite: String = "Nil";
 }</code></pre>
 
 <sub>[samwwyy/sammwyy](https://github.com/sammwyy/sammwyy) was used as insporation.</sub>

@@ -72,11 +72,11 @@ void me() {
 <br><br><br>
 
 <pre><code>{
-   let str email = "<a href='mailto:tokynblast@gmail.com'>tokynblast@gmail.com</a>";
-   let str YouTube = "<a href='https://youtube.com/@Tokyn-Blast'>@Tokyn-Blast</a>";
-   let str Twitch = "<a href='http://twitch.com/tanomaa'>tokyn_blast</a>";
-   let str X = "<a href='http://x.com/user/TokynBlastOfficial'>TokynBlastOfficial</a>";
-   let bool SiteUp = false;
+   str Email = "<a href='mailto:tokynblast@gmail.com'>tokynblast@gmail.com</a>";
+   str YouTube = "<a href='https://youtube.com/@Tokyn-Blast'>@Tokyn-Blast</a>";
+   str Twitch = "<a href='http://twitch.com/tanomaa'>Tanomaa</a>";
+   str X = "<a href='http://x.com/user/meimei_x86'>MeiMei_x86</a>";
+   str WebSite = "Nil";
 }</code></pre>
 
 <sub>[samwwyy/sammwyy](https://github.com/sammwyy/sammwyy) was used as insporation.</sub>

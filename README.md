@@ -76,10 +76,12 @@ void me() {
 <img src="stats/horizontal_bar_by_bytes.png">
 <br><br><br>
 
-<pre><code>main() {
-   let Email: String = "<a href='mailto:tokynblast@gmail.com'>tokynblast@gmail.com</a>";
-   let YouTube: String = "<a href='https://youtube.com/@Tokyn-Blast'>@Tokyn-Blast</a>";
-   let Twitch: String = "<a href='http://twitch.com/tanomaa'>Tanomaa</a>";
-   let X: String = "<a href='http://x.com/user/meimei_x86'>MeiMei_x86</a>";
-   let WebSite: String = "Nil";
-}</code></pre>
+```zig
+pub fn main() void {
+  const Email: []const u8 = "ashleys-github@estrogen.delivery";
+  const YouTube: []const u8 = "@Ashsicle";
+  const Twitch: []const u8 = "tanomaa";
+  const Twitter: []const u8 = "ashley_x86";
+  const WebSite: []const u8 = "swimming.cat";
+}
+```

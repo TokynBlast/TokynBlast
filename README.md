@@ -18,7 +18,7 @@ void me() {
 * ⚡ `I'm`: **17 years old**,
 * 🌱 `I’m currently learning`: **C++**, <!-- i forgor... -->
 * ❤️ `I love`: **Minis**  ,
-* 💻 `Favorite lang`: **C++, & Rust**,
+* 💻 `Favorite lang`: **Zig, C++, & Rust**,
 
 }
 <br><br>

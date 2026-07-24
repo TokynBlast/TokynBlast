@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Ashley&fontAlignY=37&animation=scaleIn&desc=%F0%9F%A5%94%F0%9F%A5%94%F0%9F%A5%94%F0%9F%A5%94%F0%9F%A5%94%F0%9F%A5%94%F0%9F%A5%94%F0%9F%A5%94%F0%9F%A5%94%F0%9F%A5%94%F0%9F%A5%94%F0%9F%A5%94%F0%9F%A5%94%F0%9F%A5%94%F0%9F%A5%94%F0%9F%A5%94" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Ashley%20The%20Popsicle&fontAlignY=37&animation=scaleIn" width="100%">
 <!--https://github-readme-stats.vercel.app/api?username=TokynBlast&show_icons=true&theme=dracula-->
 <div align="center">
   <h1>🏳️‍⚧️ Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>

@@ -9,7 +9,7 @@
 </div>
 
 <br>
-<img align='right' src='glue.png' width='25%'>
+<img align='right' src='images/NUXtocat.gif' width='25%'>
 
 void me() {  
 

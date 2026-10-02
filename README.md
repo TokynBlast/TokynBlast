@@ -16,9 +16,9 @@ void me() {
 * 👂 `My name is`: **Ashley**,
 * 🥔 `Noun Pros`: **she/her**,
 * ⚡ `I'm`: **18 years old**,
-* 🌱 `I’m currently learning`: **C++**, <!-- i forgor... -->
+* 🌱 `I’m currently learning`: **Nix**,
 * ❤️ `I love`: **Minis**  ,
-* 💻 `Favorite lang`: **Zig, C++, & Rust**,
+* 💻 `Favorite lang`: **Zig, C, & Rust**,
 
 }
 <br><br>

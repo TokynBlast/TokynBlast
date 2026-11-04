@@ -9,7 +9,7 @@
 </div>
 
 <br>
-<img align='right' src='images/grim-repo.jpg' width='25%'>
+<img align='right' src='images/sly-me.png' width='25%'>
 
 void me() {  
 
